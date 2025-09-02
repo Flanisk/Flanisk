@@ -1,7 +1,7 @@
 ## Flávio
 
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&size=25&pause=1000&color=EE9B00&background=FFFFFF00&width=435&lines=BEM+VINDO!)](https://git.io/typing-svg)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&size=25&pause=1000&color=EE9B00&background=FFFFFF00&width=435&lines=BEM+VINDO!)
 
 
 <div align="center">
