@@ -1,5 +1,6 @@
 ## Flávio
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libertinus+Keyboard&size=25&pause=1000&color=EE9B00&background=FFFFFF00&width=435&lines=BEM+VINDO!)](https://git.io/typing-svg)
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Flanisk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
