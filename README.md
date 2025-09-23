@@ -5,9 +5,13 @@
 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Flanisk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img style="box-shadow: 0px 15px 15px #303030;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Flanisk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false&order=2" height="600" alt="languages graph"  />
-  <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/1a554016-3f87-45b0-a8bb-716c5b1507cc" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Flanisk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="60" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flanisk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+
+<div align="center">
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/1a554016-3f87-45b0-a8bb-716c5b1507cc" />
 </div>
 
 ###
