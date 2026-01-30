@@ -50,6 +50,16 @@
 
 ###
 
+<div align="center">
+<h1>SISTEMAS OPERACIONAIS</h1>
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
 <img src="https://raw.githubusercontent.com/Flanisk/Flanisk/output/snake.svg" alt="Snake animation" />
 
 
